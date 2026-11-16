@@ -1,16 +1,20 @@
-## Hi there 👋
+## Hi, I'm Sophia (Ucee) 👋
 
-<!--
-**Sofiya-Uc/Sofiya-Uc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Mathematics and Computer Science student at Coal City Unversity.
 
-Here are some ideas to get you started:
+## What I work with:
+- Languages: JavaScript, C# 
+- Backend: Node.js, Express, Rest APIs, JWT authentication
+- Database: MongoDB, Mongoose, Atlas
+- Qualilty: Zod validation, Vitest, Swagger / OpenAPI
+- Tools: Git, Github, Render
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ## What I've built
+  - MarketReach AI (backend): retailer management, GPS nearby search and market coverage endpoints, 26 automated tests, API docs, deployed on Render.
+  - Backend features for a learning platform at Spella ICT Hub: two-factor authentication, instructor invitations and API documentation.
+
+  ## Currently Learning
+  C# and .NET and building small projects to practice backend design.
+
+  ## Contact
+  sophiahumphreyu@gmail.com
